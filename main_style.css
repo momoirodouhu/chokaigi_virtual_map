@@ -35,3 +35,59 @@
 }
 ul {list-style: none;}
 li{display:inline-block}
+.kard{
+    font-weight: 800;
+    font-size: 17px;
+    text-decoration: none;
+}
+.train{
+    left : 20px;
+    top : 85px;
+    width : 80%;
+    height : 50px;
+    position: absolute;
+    color :#000;
+    background-color: aquamarine;
+
+}
+.train p{
+    left : 0px;
+    top : -20px;
+    position: absolute;
+    font-size: 20px;
+}
+.details{
+    top: 70px;
+    position: absolute;
+}
+.box1{
+    width: 1400px;
+    top: 45px;
+    position: absolute;
+}
+.box h2{
+    background-color:blanchedalmond;
+}
+.box_link{
+    position: relative;
+    left: 10px;
+    top: 10px
+}
+.box_main{
+    width: 1400px;
+    background-color: blanchedalmond;
+    position: relative;
+    top: -20px;
+    height:220px;
+}
+.box2{
+    width: 1400px;
+    top: 320px;
+    position: absolute;
+}
+.back_link a{
+    color :#fff;
+    font-weight: 800;
+    font-size: 17px;
+    text-decoration: none;
+}
