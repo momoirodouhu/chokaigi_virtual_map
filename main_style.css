@@ -48,13 +48,21 @@ li{display:inline-block}
     position: absolute;
     color :#000;
     background-color: aquamarine;
-
 }
-.train p{
+.kard p{
     left : 0px;
     top : -20px;
     position: absolute;
     font-size: 20px;
+}
+.mirai{
+    left : 1210px;
+    top : 85px;
+    width : 17%;
+    height : 50px;
+    position: absolute;
+    color :#000;
+    background-color:khaki;
 }
 .details{
     top: 70px;
